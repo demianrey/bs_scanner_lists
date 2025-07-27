@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-01-26T15:30:00Z",
+  "lists": [
+    {
+      "name": "Test",
+      "url": "https://raw.githubusercontent.com/demianrey/bs_scanner_lists/main/test"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://raw.githubusercontent.com/demianrey/bs_scanner_lists/main/twsub"
+    },
+    {
+      "name": "Snapchat",
+      "url": "https://raw.githubusercontent.com/demianrey/bs_scanner_lists/main/scsub"
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://raw.githubusercontent.com/demianrey/bs_scanner_lists/main/cflare"
+    }
+  ]
+}
