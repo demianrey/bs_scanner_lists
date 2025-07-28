@@ -13,10 +13,6 @@
     {
       "name": "Snapchat",
       "url": "https://raw.githubusercontent.com/demianrey/bs_scanner_lists/main/scsub"
-    },
-    {
-      "name": "Cloudflare",
-      "url": "https://raw.githubusercontent.com/demianrey/bs_scanner_lists/main/cflare"
     }
   ]
 }
