@@ -13,6 +13,10 @@
     {
       "name": "Snapchat",
       "url": "https://raw.githubusercontent.com/demianrey/bs_scanner_lists/main/scsub"
+    },
+    {
+      "name": "CloudFront",
+      "url": "https://raw.githubusercontent.com/vysecurity/DomainFrontingLists/refs/heads/master/cloudfront-domains.txt"
     }
   ]
 }
